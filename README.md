@@ -8,7 +8,7 @@
 💡 Exploring **SDN controllers, OpenFlow, NFV, and cloud security solutions** to improve **Wi-Fi connectivity and network efficiency**.
 
 
-📚 Continuously learning **Azure Cloud (AZ-900), network security, and automation**.  
+📚 Continuously learning **Azure Cloud (AZ-104), network security, and automation**.  
 
 
 ---
