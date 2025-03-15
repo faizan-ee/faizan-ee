@@ -1,75 +1,88 @@
 # 👋 Hi, I'm Muhammad Faizan  
-**Electronics Engineer | SDN & Cloud Computing Enthusiast | Spirited Cybersecurity Analyst**  
+**Network Automation Specialist | Cloud & SDN Engineer | Cybersecurity Analyst**  
 
-
-🚀 Passionate about **networking, cloud computing, SDN, cybersecurity**, and **machine learning for resource optimization**.
-
-
-💡 Exploring **SDN controllers, OpenFlow, NFV, and cloud security solutions** to improve **Wi-Fi connectivity and network efficiency**.
-
-
-📚 Continuously learning **Azure Cloud (AZ-900), network security, and automation**.  
-
+🚀 **Passionate About:** Building scalable networks, hardening cloud security, and solving real-world problems with AI-driven automation.  
 
 ---
 
-
-## 🌐 **About Me**
-
-
-- 🎓 Electronics Engineering Student at MUST, Mirpur  
-- 🔬 Researcher in **Machine Learning for Resource Management & Seamless Wi-Fi Connectivity**  
-- 🏆 Aspire Alumnus | Social Impact Enthusiast | Tech Community Contributor  
-- 🎯 Passionate about **open-source contributions, research, and innovation in networking**  
+## 🌐 **About Me**  
+- 🎓 **B.E. in Electrical & Electronics Engineering** @ Mirpur University of Science & Technology (MUST)  
+- 🔍 **Research Focus:** AI/ML for Wi-Fi optimization, SDN resource management, and ethical cybersecurity frameworks.  
+- 🌟 **Leadership:** Aspire Leaders Program Alumnus (HarvardX coursework) | Advocate for tech-driven social impact.  
+- 🛠️ **Core Values:** Integrity, innovation, and empowering communities through technology.  
 
 ---
 
-## 🛠 **Skills & Technologies**
-🚀 **Networking & SDN**  
-`Cisco` `MPLS` `OpenFlow` `SDN Controllers` `NFV`  
+## 🛠 **Technical Expertise**  
 
-☁️ **Cloud Computing & DevOps**  
-`Azure (AZ-900)` `AWS` `Kubernetes` `Docker`  
+### **🔌 Networking & SDN**  
+- **Protocols:** MPLS, OSPF, BGP, VLAN, GPON, GSM/NGMS  
+- **SDN/NFV:** OpenFlow, OMNeT++, Mininet, INET Framework  
+- **Enterprise Networks:** Cisco CCNA, Firewalls (Config & Management), Active Directory, Windows Server 2022  
+- **Tools:** Wireshark, GNS3, Cisco Packet Tracer  
 
-🔐 **Cybersecurity**  
-`Firewalls` `Penetration Testing` `Wireshark` `Secure Networking`  
+### ☁️ **Cloud & DevOps**  
+- **Platforms:** Azure (Administrator Associate), AWS, GCP  
+- **Automation:** Kubernetes, Docker, CI/CD Pipelines, Terraform  
+- **Monitoring:** Grafana, Prometheus, Azure Monitor  
 
-🧠 **Machine Learning & Automation**  
-`Python` `Scikit-Learn` `TensorFlow` `Wi-Fi Optimization`  
+### 🔐 **Cybersecurity**  
+- **Frameworks:** NIST CSF/RMF, CISSP Domains, MITRE ATT&CK  
+- **Tools:** Splunk, Suricata, Metasploit, Kali Linux  
+- **Practices:** Incident Response Playbooks, Risk Assessment, Identity & Access Management  
 
-📡 **Electronics & Embedded Systems**  
-`IoT` `Arduino` `Raspberry Pi` `Wireless Communication`  
+### 🤖 **AI/ML & Automation**  
+- **Libraries:** TensorFlow, Scikit-Learn, Pandas  
+- **Projects:** AP Association Algorithms, Network Traffic Prediction Models  
+- **Scripting:** Python (Network Automation, Data Analysis), Bash  
 
----
-
-## 📌 **Pinned Projects**
-🔹 **SDN-based MPLS Network with OpenFlow Controller**  
-📌 *Designed and simulated an MPLS network using an SDN Controller to enhance efficiency in enterprise networking.*  
-[🔗 View on GitHub](#)  
-
-🔹 **Machine Learning for Seamless Wi-Fi Connectivity**  
-📌 *Developed an ML-driven approach to optimize user-AP associations in enterprise WLANs.*  
-[🔗 View on GitHub](#)  
-
-🔹 **Cloud Security & DevSecOps**  
-📌 *Implemented security measures in cloud environments to prevent network attacks.*  
-[🔗 View on GitHub](#)  
+### 📊 **Project Management**  
+- **Methodologies:** Agile (Scrum), Waterfall, Lean Six Sigma  
+- **Tools:** Jira, Trello, Microsoft Project  
+- **Skills:** Stakeholder Collaboration, Budgeting, Technical Documentation (SRS/SDD)  
 
 ---
 
-## 🏆 **Certifications & Achievements**
-- 🏅 **Azure Fundamentals (AZ-900)** – Microsoft  
-- 🏅 **Networking & Cybersecurity Certifications** (Ongoing)  
-- 🏅 **Aspire Leadership & Social Impact Training**  
+## 🚀 **Key Projects**  
+
+### **1. AI-Driven SDN for High-Density Wi-Fi Optimization**  
+- **Tools:** Python, OMNeT++, TensorFlow  
+- **Impact:** Improved AP association efficiency by **30%** and reduced latency in simulated dense networks.  
+- [🔗 GitHub](#)  
+
+### **2. Enterprise Network Automation Framework**  
+- **Tools:** Python, Cisco IOS, NETCONF  
+- **Impact:** Automated VLAN configuration, cutting manual errors by **40%**.  
+- [🔗 GitHub](#)  
+
+### **3. Cloud Security Playbook for Azure/AWS**  
+- **Tools:** Splunk, Azure Sentinel, NIST CSF  
+- **Impact:** Reduced threat detection time by **35%** with automated incident response workflows.  
+- [🔗 GitHub](#)  
+
+### **4. SDN-Based MPLS Network Simulation**  
+- **Tools:** Mininet, OpenFlow, Wireshark  
+- **Impact:** Achieved **11x throughput** in high-density conference scenarios.  
+- [🔗 GitHub](#)  
 
 ---
 
-## 📢 **Let's Connect!**
-🔗 [LinkedIn](https://www.linkedin.com/in/m-faizan-azad/)  
-📧 **Email:** mfaizan.azad@gmail.com  
-🌎 [Portfolio Website](#) *(Coming Soon!)*  
-
-💡 *Always open to collaborations, research opportunities, and impactful projects!*  
+## 📜 **Certifications**  
+- **Microsoft Certified:** Azure Administrator Associate (2025)  
+- **Cisco:** CCNA - Introduction to Networks (2024)  
+- **Google:** Project Management Professional (Coursera, 2025)  
+- **Cybersecurity:** Google & Coursera Professional Certificate (2025)  
+- **Lean Six Sigma:** White Belt (2024)  
 
 ---
-⭐ **If you find my work useful, consider giving a star!** ⭐  
+
+## 📬 **Let’s Collaborate!**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-faizan)  
+- 📧 **Email:** mfazan.azad@gmail.com  
+- 🌐 **Portfolio:** [Under Construction](#)  
+
+💬 **Open to:** Internships, research collaborations, and innovative projects in networking/AI/cloud!  
+
+---
+
+⭐ **If my work inspires you, star a repo or reach out! Let’s build the future, one line of code at a time.** ⭐  
