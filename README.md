@@ -77,7 +77,7 @@
 ---
 
 ## 📬 **Let’s Collaborate!**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-faizan)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/m-faizan-azad/)  
 - 📧 **Email:** mfazan.azad@gmail.com  
 - 🌐 **Portfolio:** [Under Construction](#)  
 
