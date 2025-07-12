@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Muhammad Faizan  
-**Network Automation Specialist | Cloud & SDN Engineer | Cybersecurity Analyst**  
+**Network & Cloud Engineer | System Administration Expert | AWS, Azure, GCP**  
 
 🚀 **Passionate About:** Building scalable networks, hardening cloud security, and solving real-world problems with AI-driven automation.  
 
